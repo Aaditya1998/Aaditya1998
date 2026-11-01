@@ -16,7 +16,6 @@
 ### About me
 
 - 💼 **Software Engineer – Healthcare IT** at **HCLTech** (RIS/PACS), previously **.NET Developer** at ProBuz Technologies
-- 🛒 Founder of **Unicot's** — a D2C e-commerce brand in India, where I build and run the entire tech stack myself
 - 🤖 Building **AI-driven automation** for real business operations: order risk scoring, WhatsApp verification flows, COD-to-prepaid conversion, agentic pipelines on top of .NET
 - 🔒 Interested in **privacy-first AI** — self-hosting open-weight models (vLLM) for PII-touching workloads under India's DPDP framework
 - 🎯 Currently looking for a full-time role combining **.NET backend engineering + AI engineering** (remote / Nagpur / Pune / Mumbai / Bangalore / Hyderabad / abroad)
