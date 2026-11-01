@@ -75,11 +75,11 @@
 ### GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aaditya1998&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya1998&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aaditya1998&theme=tokyonight" alt="GitHub stats"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aaditya1998&theme=tokyonight" alt="Top languages"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaditya1998&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Aaditya1998&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
