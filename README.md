@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aditya Ninawe 👋</h1>
 
 <p align="center">
-  <b>.NET Developer · AI Engineer · E-commerce Founder</b><br/>
+  <b>.NET Developer · AI Engineer </b><br/>
   Nagpur, India
 </p>
 
